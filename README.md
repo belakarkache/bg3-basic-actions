@@ -140,4 +140,4 @@ divine -g bg3 -a create-package -s build -d BasicActions.pak
 
 ---
 
-Autora: **icka.dev**
+Autora: **[icka.dev](https://www.icka.dev/)**
